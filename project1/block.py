@@ -7,8 +7,6 @@
 #################### on = None, Block_object_A, ....
 #################### clear = True, False
 #################### air = True, False
-# I created square and triangle blocks. However, we only use square for the main project
-# You can use a triangle block for the extra credit
 ###=================================================
 
 # single block, a square, a triangle, or a table. These are the blocks of which
