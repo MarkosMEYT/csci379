@@ -1,6 +1,5 @@
 ###=================================================
 # This is a helper module that helps the display function in state file.
-# You do not need to understand the code in this file.
 ###=================================================
 
 import copy
