@@ -20,12 +20,6 @@ class Plan:
         self.initial_state = initial_state
         self.goal_state = goal_state
 
-    #***=========================================
-    # First implement all the operators
-    # I implemented two operators to give you guys an example
-    # Please implement the remainder of the operators
-    #***=========================================
-
     def putdown(self, block1):
         """
         Operator to put the block on the table
@@ -100,11 +94,7 @@ class Plan:
         """
         pass
 
-    # ***=========================================
-    # After you implement all the operators
-    # The next step is to implement the actual plan.
-    # Please fill in the sample plan to output the appropriate steps to reach the goal
-    # ***=========================================
+
     def plan(self):
         goal_down = {}
         goal_up = {}
